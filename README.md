@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
 ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-Carousels-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+[![All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-344966)](LICENSE)
 
 ModaTix es una aplicacion web para descubrir, filtrar y consultar eventos de moda en distintas ciudades. El proyecto combina una arquitectura PHP MVC con una base de datos MySQL relacional, componentes dinamicos en JavaScript, mapas interactivos con Leaflet y carruseles visuales con Swiper.
 
@@ -342,3 +343,7 @@ Repositorio:
 ```text
 https://github.com/LucaMZM/Eventos-ModaTix
 ```
+
+## Licencia
+
+**All Rights Reserved — código propietario.** El código original de este proyecto es público para revisión de portfolio, pero no se autoriza copiarlo, modificarlo, redistribuirlo ni utilizarlo comercialmente sin permiso previo por escrito. Consulta [LICENSE](LICENSE). Los componentes de terceros conservan sus propias licencias.
